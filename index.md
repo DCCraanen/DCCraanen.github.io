@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/DCCraanen/DCCraanen.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DCCraanen/DCCraanen.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## My Work So Far!
+#### Adventure Game: The Dragon of Pearlwood
+- A short adventure game about a hero who is forced to reflect on the choices of their past while fighting for the greater good.
+- /../main/assets/images/AdventureGameSS.png
+- The game uses the first choice made by the player to determine the ending they recive, good or bad. It has other choices, but the main focus is their choice between healing or a weapon before the game even really begins.
+#### Make A Madlib!
+- A quick madlib based off an excerpt from "The Hound of the Baskervilles"
+- /../main/assets/images/MadlibSS.png
+- This project was one of the first coding assignments I had ever done, but has since been refactored with the new knowlage I gained in class. 
+#### Trivia Game
+- A trivia game assignment that I got to customize with funny quotes from my friends!
+- /../main/assets/images/TrivaGameSS.png
+- I had a lot of fun coding this game and playing it with my friends one it was completed. It was really enjoyable to watch them all guess who's weird quote it was.
+#### Adopt A Robot
+- A cute application that allows the player to adopt a robot and select a name and color for it!
+- /../main/assets/images/AdoptARobotSS.png
+- This game was originally created by Janell Baxter, but was assigned to us for refactoring. I added the text color changing functionality and reorganized the code to make it more readable.
+#### Dogon Pot 
+- This application is programmed to print out the instructions for drawing a Dogon Pot. 
+- /../main/assets/images/DogonPotSS.png
+- This program uses an if/else loop to see if it prints '{step}. Draw a circle that is {diameter} {measurementSystem} in size' or 'Draw a lid'
