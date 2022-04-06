@@ -10,6 +10,7 @@
 - This project was one of the first coding assignments I had ever done, but has since been refactored with the new knowlage I gained in class. 
 #### Trivia Game
 - A trivia game assignment that I got to customize with funny quotes from my friends!
+- ![1](https://raw.githubusercontent.com/DCCraanen/DCCraanen.github.io/main/TriviaGameSS.png)
 - /../main/assets/images/TrivaGameSS.png
 - I had a lot of fun coding this game and playing it with my friends one it was completed. It was really enjoyable to watch them all guess who's weird quote it was.
 #### Adopt A Robot
