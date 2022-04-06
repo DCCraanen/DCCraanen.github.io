@@ -1,6 +1,7 @@
 ## My Work So Far!
 #### Adventure Game: The Dragon of Pearlwood
 - A short adventure game about a hero who is forced to reflect on the choices of their past while fighting for the greater good.
+![AdventureGameImage](/../main/assets/images/AdventureGameSS.png)
 - /../main/assets/images/AdventureGameSS.png
 - The game uses the first choice made by the player to determine the ending they recive, good or bad. It has other choices, but the main focus is their choice between healing or a weapon before the game even really begins.
 #### Make A Madlib!
